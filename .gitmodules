@@ -108,3 +108,8 @@
 	url = https://github.com/yulab-smu/treeio
 	shallow = true
 	registered = true
+[submodule "enrichplot"]
+	path = enrichplot
+	url = https://github.com/GuangchuangYu/enrichplot
+	shallow = true
+	registered = false
