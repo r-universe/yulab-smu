@@ -1,0 +1,73 @@
+[
+  {
+    "package": "aplot",
+    "oncran": true
+  },
+  {
+    "package": "ggbreak",
+    "oncran": true
+  },
+  {
+    "package": "nCov2019",
+    "oncran": true
+  },
+  {
+    "package": "scholar",
+    "oncran": true
+  },
+  {
+    "package": "seqmagick",
+    "oncran": true
+  },
+  {
+    "package": "TDbook",
+    "oncran": true
+  },
+  {
+    "package": "tidydr",
+    "oncran": true
+  },
+  {
+    "package": "tidytree",
+    "oncran": true
+  },
+  {
+    "package": "ChIPseeker"
+  },
+  {
+    "package": "clusterProfiler"
+  },
+  {
+    "package": "DOSE"
+  },
+  {
+    "package": "ggmsa"
+  },
+  {
+    "package": "ggtree"
+  },
+  {
+    "package": "ggtreeExtra"
+  },
+  {
+    "package": "GOSemSim"
+  },
+  {
+    "package": "meshes"
+  },
+  {
+    "package": "MicrobiomeProfiler"
+  },
+  {
+    "package": "MicrobiotaProcess"
+  },
+  {
+    "package": "ReactomePA"
+  },
+  {
+    "package": "seqcombo"
+  },
+  {
+    "package": "treeio"
+  }
+]
