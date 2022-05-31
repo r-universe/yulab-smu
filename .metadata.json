@@ -41,25 +41,13 @@
     "package": "DOSE"
   },
   {
-    "package": "ggmsa"
-  },
-  {
     "package": "ggtree"
-  },
-  {
-    "package": "ggtreeExtra"
   },
   {
     "package": "GOSemSim"
   },
   {
     "package": "meshes"
-  },
-  {
-    "package": "MicrobiomeProfiler"
-  },
-  {
-    "package": "MicrobiotaProcess"
   },
   {
     "package": "ReactomePA"

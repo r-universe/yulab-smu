@@ -58,19 +58,9 @@
 	url = https://github.com/yulab-smu/dose
 	shallow = true
 	registered = true
-[submodule "ggmsa"]
-	path = ggmsa
-	url = https://github.com/yulab-smu/ggmsa
-	shallow = true
-	registered = true
 [submodule "ggtree"]
 	path = ggtree
 	url = https://github.com/yulab-smu/ggtree
-	shallow = true
-	registered = true
-[submodule "ggtreeExtra"]
-	path = ggtreeExtra
-	url = https://github.com/yulab-smu/ggtreeextra
 	shallow = true
 	registered = true
 [submodule "GOSemSim"]
@@ -81,16 +71,6 @@
 [submodule "meshes"]
 	path = meshes
 	url = https://github.com/yulab-smu/meshes
-	shallow = true
-	registered = true
-[submodule "MicrobiomeProfiler"]
-	path = MicrobiomeProfiler
-	url = https://github.com/yulab-smu/microbiomeprofiler
-	shallow = true
-	registered = true
-[submodule "MicrobiotaProcess"]
-	path = MicrobiotaProcess
-	url = https://github.com/yulab-smu/microbiotaprocess
 	shallow = true
 	registered = true
 [submodule "ReactomePA"]
