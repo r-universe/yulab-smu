@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "MMINP",
+    "oncran": true
+  },
+  {
     "package": "nCov2019",
     "oncran": true
   },
