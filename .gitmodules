@@ -58,8 +58,3 @@
 	url = https://github.com/GuangchuangYu/enrichplot
 	shallow = true
 	registered = false
-[submodule "treeio"]
-	path = treeio
-	url = https://github.com/GuangchuangYu/treeio
-	shallow = true
-	registered = false
