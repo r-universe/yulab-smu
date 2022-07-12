@@ -37,29 +37,5 @@
   },
   {
     "package": "ChIPseeker"
-  },
-  {
-    "package": "clusterProfiler"
-  },
-  {
-    "package": "DOSE"
-  },
-  {
-    "package": "ggtree"
-  },
-  {
-    "package": "GOSemSim"
-  },
-  {
-    "package": "meshes"
-  },
-  {
-    "package": "ReactomePA"
-  },
-  {
-    "package": "seqcombo"
-  },
-  {
-    "package": "treeio"
   }
 ]
