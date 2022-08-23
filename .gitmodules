@@ -68,6 +68,11 @@
 	url = https://github.com/yulab-smu/ggtree
 	shallow = true
 	registered = true
+[submodule "ggtreeExtra"]
+	path = ggtreeExtra
+	url = https://github.com/yulab-smu/ggtreeextra
+	shallow = true
+	registered = true
 [submodule "GOSemSim"]
 	path = GOSemSim
 	url = https://github.com/yulab-smu/gosemsim
@@ -76,6 +81,11 @@
 [submodule "meshes"]
 	path = meshes
 	url = https://github.com/yulab-smu/meshes
+	shallow = true
+	registered = true
+[submodule "MicrobiotaProcess"]
+	path = MicrobiotaProcess
+	url = https://github.com/yulab-smu/microbiotaprocess
 	shallow = true
 	registered = true
 [submodule "ReactomePA"]

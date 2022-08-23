@@ -48,10 +48,16 @@
     "package": "ggtree"
   },
   {
+    "package": "ggtreeExtra"
+  },
+  {
     "package": "GOSemSim"
   },
   {
     "package": "meshes"
+  },
+  {
+    "package": "MicrobiotaProcess"
   },
   {
     "package": "ReactomePA"
