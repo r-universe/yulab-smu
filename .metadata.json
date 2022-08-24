@@ -45,6 +45,9 @@
     "package": "DOSE"
   },
   {
+    "package": "ggmsa"
+  },
+  {
     "package": "ggtree"
   },
   {
@@ -55,6 +58,9 @@
   },
   {
     "package": "meshes"
+  },
+  {
+    "package": "MicrobiomeProfiler"
   },
   {
     "package": "MicrobiotaProcess"
