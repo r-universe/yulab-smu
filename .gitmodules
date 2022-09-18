@@ -83,29 +83,9 @@
 	url = https://github.com/yulab-smu/gosemsim
 	shallow = true
 	registered = true
-[submodule "meshes"]
-	path = meshes
-	url = https://github.com/yulab-smu/meshes
-	shallow = true
-	registered = true
-[submodule "MicrobiomeProfiler"]
-	path = MicrobiomeProfiler
-	url = https://github.com/yulab-smu/microbiomeprofiler
-	shallow = true
-	registered = true
-[submodule "MicrobiotaProcess"]
-	path = MicrobiotaProcess
-	url = https://github.com/yulab-smu/microbiotaprocess
-	shallow = true
-	registered = true
 [submodule "ReactomePA"]
 	path = ReactomePA
 	url = https://github.com/yulab-smu/reactomepa
-	shallow = true
-	registered = true
-[submodule "seqcombo"]
-	path = seqcombo
-	url = https://github.com/yulab-smu/seqcombo
 	shallow = true
 	registered = true
 [submodule "treeio"]

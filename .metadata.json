@@ -57,19 +57,7 @@
     "package": "GOSemSim"
   },
   {
-    "package": "meshes"
-  },
-  {
-    "package": "MicrobiomeProfiler"
-  },
-  {
-    "package": "MicrobiotaProcess"
-  },
-  {
     "package": "ReactomePA"
-  },
-  {
-    "package": "seqcombo"
   },
   {
     "package": "treeio"
