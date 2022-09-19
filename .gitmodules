@@ -13,11 +13,6 @@
 	url = https://github.com/yulab-smu/ggbreak
 	shallow = true
 	registered = true
-[submodule "MMINP"]
-	path = MMINP
-	url = https://github.com/yulab-smu/mminp
-	shallow = true
-	registered = true
 [submodule "nCov2019"]
 	path = nCov2019
 	url = https://github.com/yulab-smu/ncov2019
@@ -81,11 +76,6 @@
 [submodule "GOSemSim"]
 	path = GOSemSim
 	url = https://github.com/yulab-smu/gosemsim
-	shallow = true
-	registered = true
-[submodule "ReactomePA"]
-	path = ReactomePA
-	url = https://github.com/yulab-smu/reactomepa
 	shallow = true
 	registered = true
 [submodule "treeio"]
