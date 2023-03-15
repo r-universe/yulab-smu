@@ -1,20 +1,29 @@
 [
   {
-    "package": "ggbreak",
+    "package": "aplot",
     "oncran": true
   },
   {
     "package": "ChIPseeker"
   },
   {
-    "package": "ReactomePA"
+    "package": "clusterProfiler"
   },
   {
-    "package": "tidydr",
+    "package": "DOSE"
+  },
+  {
+    "package": "ggbreak",
     "oncran": true
   },
   {
-    "package": "seqcombo"
+    "package": "ggmsa"
+  },
+  {
+    "package": "ggtree"
+  },
+  {
+    "package": "ggtreeExtra"
   },
   {
     "package": "GOSemSim"
@@ -23,18 +32,13 @@
     "package": "meshes"
   },
   {
-    "package": "aplot",
-    "oncran": true
+    "package": "MicrobiomeProfiler"
   },
   {
-    "package": "clusterProfiler"
+    "package": "MicrobiotaProcess"
   },
   {
-    "package": "TDbook",
-    "oncran": true
-  },
-  {
-    "package": "scholar",
+    "package": "MMINP",
     "oncran": true
   },
   {
@@ -42,36 +46,32 @@
     "oncran": true
   },
   {
+    "package": "ReactomePA"
+  },
+  {
+    "package": "scholar",
+    "oncran": true
+  },
+  {
+    "package": "seqcombo"
+  },
+  {
     "package": "seqmagick",
     "oncran": true
   },
   {
-    "package": "treeio"
+    "package": "TDbook",
+    "oncran": true
+  },
+  {
+    "package": "tidydr",
+    "oncran": true
   },
   {
     "package": "tidytree",
     "oncran": true
   },
   {
-    "package": "ggtree"
-  },
-  {
-    "package": "DOSE"
-  },
-  {
-    "package": "ggtreeExtra"
-  },
-  {
-    "package": "MicrobiotaProcess"
-  },
-  {
-    "package": "ggmsa"
-  },
-  {
-    "package": "MMINP",
-    "oncran": true
-  },
-  {
-    "package": "MicrobiomeProfiler"
+    "package": "treeio"
   }
 ]
