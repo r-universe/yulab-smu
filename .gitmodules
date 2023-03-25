@@ -23,6 +23,11 @@
 	url = https://github.com/yulab-smu/dose
 	shallow = true
 	registered = true
+[submodule "GeoTcgaData"]
+	path = GeoTcgaData
+	url = https://github.com/yulab-smu/geotcgadata
+	shallow = true
+	registered = true
 [submodule "ggbreak"]
 	path = ggbreak
 	url = https://github.com/yulab-smu/ggbreak
