@@ -2,21 +2,43 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "aplot"]
-	path = aplot
-	url = https://github.com/yulab-smu/aplot
 [submodule "ChIPseeker"]
 	path = ChIPseeker
 	url = https://github.com/yulab-smu/chipseeker
-[submodule "clusterProfiler"]
-	path = clusterProfiler
-	url = https://github.com/yulab-smu/clusterprofiler
 [submodule "DOSE"]
 	path = DOSE
 	url = https://github.com/yulab-smu/dose
+[submodule "GOSemSim"]
+	path = GOSemSim
+	url = https://github.com/yulab-smu/gosemsim
 [submodule "GeoTcgaData"]
 	path = GeoTcgaData
 	url = https://github.com/yulab-smu/geotcgadata
+[submodule "MMINP"]
+	path = MMINP
+	url = https://github.com/yulab-smu/mminp
+[submodule "MicrobiomeProfiler"]
+	path = MicrobiomeProfiler
+	url = https://github.com/yulab-smu/microbiomeprofiler
+[submodule "MicrobiotaProcess"]
+	path = MicrobiotaProcess
+	url = https://github.com/yulab-smu/microbiotaprocess
+[submodule "ReactomePA"]
+	path = ReactomePA
+	url = https://github.com/yulab-smu/reactomepa
+[submodule "TDbook"]
+	path = TDbook
+	url = https://github.com/yulab-smu/tdbook
+[submodule "aplot"]
+	path = aplot
+	url = https://github.com/yulab-smu/aplot
+[submodule "clusterProfiler"]
+	path = clusterProfiler
+	url = https://github.com/yulab-smu/clusterprofiler
+[submodule "enrichplot"]
+	path = enrichplot
+	url = https://github.com/GuangchuangYu/enrichplot
+	registered = false
 [submodule "ggbreak"]
 	path = ggbreak
 	url = https://github.com/yulab-smu/ggbreak
@@ -29,24 +51,9 @@
 [submodule "ggtreeExtra"]
 	path = ggtreeExtra
 	url = https://github.com/yulab-smu/ggtreeextra
-[submodule "GOSemSim"]
-	path = GOSemSim
-	url = https://github.com/yulab-smu/gosemsim
 [submodule "meshes"]
 	path = meshes
 	url = https://github.com/yulab-smu/meshes
-[submodule "MicrobiomeProfiler"]
-	path = MicrobiomeProfiler
-	url = https://github.com/yulab-smu/microbiomeprofiler
-[submodule "MicrobiotaProcess"]
-	path = MicrobiotaProcess
-	url = https://github.com/yulab-smu/microbiotaprocess
-[submodule "MMINP"]
-	path = MMINP
-	url = https://github.com/yulab-smu/mminp
-[submodule "ReactomePA"]
-	path = ReactomePA
-	url = https://github.com/yulab-smu/reactomepa
 [submodule "scholar"]
 	path = scholar
 	url = https://github.com/yulab-smu/scholar
@@ -56,9 +63,6 @@
 [submodule "seqmagick"]
 	path = seqmagick
 	url = https://github.com/yulab-smu/seqmagick
-[submodule "TDbook"]
-	path = TDbook
-	url = https://github.com/yulab-smu/tdbook
 [submodule "tidydr"]
 	path = tidydr
 	url = https://github.com/yulab-smu/tidydr
@@ -68,7 +72,3 @@
 [submodule "treeio"]
 	path = treeio
 	url = https://github.com/yulab-smu/treeio
-[submodule "enrichplot"]
-	path = enrichplot
-	url = https://github.com/GuangchuangYu/enrichplot
-	registered = false
