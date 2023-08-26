@@ -32,6 +32,9 @@
 [submodule "aplot"]
 	path = aplot
 	url = https://github.com/yulab-smu/aplot
+[submodule "aplotExtra"]
+	path = aplotExtra
+	url = https://github.com/yulab-smu/aplotextra
 [submodule "clusterProfiler"]
 	path = clusterProfiler
 	url = https://github.com/yulab-smu/clusterprofiler
