@@ -48,6 +48,9 @@
 [submodule "ggmsa"]
 	path = ggmsa
 	url = https://github.com/yulab-smu/ggmsa
+[submodule "ggsc"]
+	path = ggsc
+	url = https://github.com/yulab-smu/ggsc
 [submodule "ggtree"]
 	path = ggtree
 	url = https://github.com/yulab-smu/ggtree
