@@ -42,6 +42,9 @@
 	path = enrichplot
 	url = https://github.com/GuangchuangYu/enrichplot
 	registered = false
+[submodule "fanyi"]
+	path = fanyi
+	url = https://github.com/yulab-smu/fanyi
 [submodule "ggbreak"]
 	path = ggbreak
 	url = https://github.com/yulab-smu/ggbreak
