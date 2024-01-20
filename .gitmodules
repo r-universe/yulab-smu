@@ -48,6 +48,9 @@
 [submodule "ggbreak"]
 	path = ggbreak
 	url = https://github.com/yulab-smu/ggbreak
+[submodule "ggfun"]
+	path = ggfun
+	url = https://github.com/yulab-smu/ggfun
 [submodule "ggmsa"]
 	path = ggmsa
 	url = https://github.com/yulab-smu/ggmsa
