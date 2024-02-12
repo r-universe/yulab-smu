@@ -7,7 +7,7 @@
   },
   {
     "package": "treeio",
-    "url": "https://github.com/GuangchuangYu/treeio",
+    "url": "https://github.com/YuLab-SMU/treeio",
     "via": ["ggtree"],
     "from": "ggtree"
   }
