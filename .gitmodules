@@ -75,6 +75,9 @@
 [submodule "seqmagick"]
 	path = seqmagick
 	url = https://github.com/yulab-smu/seqmagick
+[submodule "shinyTempSignal"]
+	path = shinyTempSignal
+	url = https://github.com/yulab-smu/shinytempsignal
 [submodule "tidydr"]
 	path = tidydr
 	url = https://github.com/yulab-smu/tidydr
