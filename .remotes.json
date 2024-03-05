@@ -4,11 +4,5 @@
     "url": "https://github.com/GuangchuangYu/enrichplot",
     "via": ["ChIPseeker"],
     "from": "ChIPseeker"
-  },
-  {
-    "package": "treeio",
-    "url": "https://github.com/YuLab-SMU/treeio",
-    "via": ["ggtree"],
-    "from": "ggtree"
   }
 ]
