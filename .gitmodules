@@ -63,6 +63,9 @@
 [submodule "ggtreeExtra"]
 	path = ggtreeExtra
 	url = https://github.com/yulab-smu/ggtreeextra
+[submodule "ggtreeSpace"]
+	path = ggtreeSpace
+	url = https://github.com/yulab-smu/ggtreespace
 [submodule "meshes"]
 	path = meshes
 	url = https://github.com/yulab-smu/meshes
