@@ -14,10 +14,6 @@
 [submodule "aplotExtra"]
 	path = aplotExtra
 	url = https://github.com/yulab-smu/aplotextra
-[submodule "enrichplot"]
-	path = enrichplot
-	url = https://github.com/GuangchuangYu/enrichplot
-	registered = false
 [submodule "fanyi"]
 	path = fanyi
 	url = https://github.com/yulab-smu/fanyi

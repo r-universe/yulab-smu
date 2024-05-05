@@ -1,8 +1,0 @@
-[
-  {
-    "package": "enrichplot",
-    "url": "https://github.com/GuangchuangYu/enrichplot",
-    "via": ["ChIPseeker"],
-    "from": "ChIPseeker"
-  }
-]
