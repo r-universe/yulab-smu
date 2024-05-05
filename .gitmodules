@@ -2,30 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ChIPseeker"]
-	path = ChIPseeker
-	url = https://github.com/yulab-smu/chipseeker
-[submodule "DOSE"]
-	path = DOSE
-	url = https://github.com/yulab-smu/dose
-[submodule "GOSemSim"]
-	path = GOSemSim
-	url = https://github.com/yulab-smu/gosemsim
-[submodule "GeoTcgaData"]
-	path = GeoTcgaData
-	url = https://github.com/yulab-smu/geotcgadata
 [submodule "MMINP"]
 	path = MMINP
 	url = https://github.com/yulab-smu/mminp
-[submodule "MicrobiomeProfiler"]
-	path = MicrobiomeProfiler
-	url = https://github.com/yulab-smu/microbiomeprofiler
-[submodule "MicrobiotaProcess"]
-	path = MicrobiotaProcess
-	url = https://github.com/yulab-smu/microbiotaprocess
-[submodule "ReactomePA"]
-	path = ReactomePA
-	url = https://github.com/yulab-smu/reactomepa
 [submodule "TDbook"]
 	path = TDbook
 	url = https://github.com/yulab-smu/tdbook
@@ -35,9 +14,6 @@
 [submodule "aplotExtra"]
 	path = aplotExtra
 	url = https://github.com/yulab-smu/aplotextra
-[submodule "clusterProfiler"]
-	path = clusterProfiler
-	url = https://github.com/yulab-smu/clusterprofiler
 [submodule "enrichplot"]
 	path = enrichplot
 	url = https://github.com/GuangchuangYu/enrichplot
@@ -51,30 +27,9 @@
 [submodule "ggfun"]
 	path = ggfun
 	url = https://github.com/yulab-smu/ggfun
-[submodule "ggmsa"]
-	path = ggmsa
-	url = https://github.com/yulab-smu/ggmsa
-[submodule "ggsc"]
-	path = ggsc
-	url = https://github.com/yulab-smu/ggsc
-[submodule "ggtree"]
-	path = ggtree
-	url = https://github.com/yulab-smu/ggtree
-[submodule "ggtreeExtra"]
-	path = ggtreeExtra
-	url = https://github.com/yulab-smu/ggtreeextra
-[submodule "ggtreeSpace"]
-	path = ggtreeSpace
-	url = https://github.com/yulab-smu/ggtreespace
-[submodule "meshes"]
-	path = meshes
-	url = https://github.com/yulab-smu/meshes
 [submodule "scholar"]
 	path = scholar
 	url = https://github.com/yulab-smu/scholar
-[submodule "seqcombo"]
-	path = seqcombo
-	url = https://github.com/yulab-smu/seqcombo
 [submodule "seqmagick"]
 	path = seqmagick
 	url = https://github.com/yulab-smu/seqmagick
@@ -87,6 +42,3 @@
 [submodule "tidytree"]
 	path = tidytree
 	url = https://github.com/yulab-smu/tidytree
-[submodule "treeio"]
-	path = treeio
-	url = https://github.com/yulab-smu/treeio
