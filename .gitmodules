@@ -23,6 +23,9 @@
 [submodule "ggfun"]
 	path = ggfun
 	url = https://github.com/yulab-smu/ggfun
+[submodule "scatterpie"]
+	path = scatterpie
+	url = https://github.com/yulab-smu/scatterpie
 [submodule "scholar"]
 	path = scholar
 	url = https://github.com/yulab-smu/scholar
