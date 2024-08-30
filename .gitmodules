@@ -23,6 +23,9 @@
 [submodule "ggfun"]
 	path = ggfun
 	url = https://github.com/yulab-smu/ggfun
+[submodule "mirrorselect"]
+	path = mirrorselect
+	url = https://github.com/yulab-smu/mirrorselect
 [submodule "scatterpie"]
 	path = scatterpie
 	url = https://github.com/yulab-smu/scatterpie
