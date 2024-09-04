@@ -44,6 +44,9 @@
 [submodule "tidytree"]
 	path = tidytree
 	url = https://github.com/yulab-smu/tidytree
+[submodule "wget"]
+	path = wget
+	url = https://github.com/yulab-smu/wget
 [submodule "wikiprofiler"]
 	path = wikiprofiler
 	url = https://github.com/yulab-smu/wikiprofiler
