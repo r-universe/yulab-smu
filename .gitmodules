@@ -26,6 +26,9 @@
 [submodule "ggimage"]
 	path = ggimage
 	url = https://github.com/yulab-smu/ggimage
+[submodule "ivolcano"]
+	path = ivolcano
+	url = https://github.com/yulab-smu/ivolcano
 [submodule "mirrorselect"]
 	path = mirrorselect
 	url = https://github.com/yulab-smu/mirrorselect
