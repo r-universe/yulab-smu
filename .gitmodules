@@ -8,6 +8,9 @@
 [submodule "TDbook"]
 	path = TDbook
 	url = https://github.com/yulab-smu/tdbook
+[submodule "aisdk"]
+	path = aisdk
+	url = https://github.com/yulab-smu/aisdk
 [submodule "aplot"]
 	path = aplot
 	url = https://github.com/yulab-smu/aplot
