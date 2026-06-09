@@ -11,6 +11,9 @@
 [submodule "aisdk"]
 	path = aisdk
 	url = https://github.com/yulab-smu/aisdk
+[submodule "aisdk.providers"]
+	path = aisdk.providers
+	url = https://github.com/yulab-smu/aisdk.providers
 [submodule "aplot"]
 	path = aplot
 	url = https://github.com/yulab-smu/aplot
