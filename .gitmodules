@@ -32,6 +32,9 @@
 [submodule "ggimage"]
 	path = ggimage
 	url = https://github.com/yulab-smu/ggimage
+[submodule "gson"]
+	path = gson
+	url = https://github.com/yulab-smu/gson
 [submodule "ivolcano"]
 	path = ivolcano
 	url = https://github.com/yulab-smu/ivolcano
