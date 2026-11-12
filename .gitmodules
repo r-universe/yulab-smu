@@ -59,6 +59,9 @@
 [submodule "tidytree"]
 	path = tidytree
 	url = https://github.com/yulab-smu/tidytree
+[submodule "treelayout"]
+	path = treelayout
+	url = https://github.com/yulab-smu/treelayout
 [submodule "wget"]
 	path = wget
 	url = https://github.com/yulab-smu/wget
